@@ -1,0 +1,27 @@
+CatchInputCtrl/latex/
+CatchInputCtrl/html/
+CustomTimeCtrl/latex/
+CustomTimeCtrl/html/
+CustomTimeCtrl/Doxyfile
+CustomTimeCtrl/Doxyfile2
+CatchInputCtrl/static_analysis.cppcheck
+CatchInputCtrl/Doxyfile
+CatchInputCtrl/Doxyfile2
+CustomTimeCtrl/static_analysis.cppcheck
+app_solution/static_analysis.cppcheck
+app_solution/Doxyfile
+app_solution/Qt\ GUI\ Toolkit\ Build\ Rules\ v2.0/
+app_solution/app_new/GeneratedFiles/
+app_solution/app_new/Release
+app_solution/app_new/Debug
+app_solution/app_new/Doxyfile
+app_solution/conf_app/GeneratedFiles/
+app_solution/conf_app/Release
+app_solution/conf_app/Debug
+CatchInputCtrl/CatchInputCtrl/GeneratedFiles/
+CatchInputCtrl/CatchInputCtrl/release
+CatchInputCtrl/CatchInputCtrl/debug
+CustomTimeCtrl/CustomTimeCtrl/GeneratedFiles/
+CustomTimeCtrl/CustomTimeCtrl/release
+CustomTimeCtrl/CustomTimeCtrl/debug
+
